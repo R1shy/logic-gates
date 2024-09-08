@@ -1,5 +1,3 @@
-
-
 def NOT(a,b):
     parse(a,b)
     if a != b:
