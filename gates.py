@@ -1,6 +1,4 @@
-# DONE: AND, NOT, OR, XOR, NAND
-# WORKING ON: NOR
-# TODO: XNOR 
+
 
 def NOT(a,b):
     parse(a,b)
@@ -49,9 +47,3 @@ def parse(a,b):
 
     else:
         pass
-
-print(XNOR(0,0))
-print(XNOR(0,1))
-print(XNOR(1,0))
-print(XNOR(1,1))
-
