@@ -50,8 +50,6 @@ def parse(a,b):
     else:
         pass
 
-
-
 print(XNOR(0,0))
 print(XNOR(0,1))
 print(XNOR(1,0))
