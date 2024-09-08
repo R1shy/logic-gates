@@ -11,5 +11,5 @@ if I feel like it I might make registers and stuff but that seems hard and I hav
 
     * add stuff to the ```example.py``` file
     * execute the file
-    * NOTE: DO NOT DELETE THE PARSE FUNCTION IN THE ```gates.py``` OR THE IMPORT IN ```exampl.py```
+    * NOTE: DO NOT DELETE THE PARSE FUNCTION IN THE ```gates.py``` OR THE IMPORT IN ```examples.py```
     * use python 3 btw
